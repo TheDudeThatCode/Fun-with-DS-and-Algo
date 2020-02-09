@@ -50,3 +50,10 @@ int main() // Main Section
     
     return 0;
 }
+
+/*  Time Complexity of Linear Search:-
+
+    1. Best Case complexity : O(1) 
+    2. Average Case complexity : O(n)
+    3. Worst Case complexity : O(n)
+*/    
