@@ -1,3 +1,5 @@
+/* Binary Search Algorithm by Iterative Method */
+
 #include <iostream>
 using namespace std;
 
@@ -49,11 +51,34 @@ int main() // Main Section
     }
     
     return 0;
-}
+} // End of program
 
-/*  Time Complexity of Linear Search:-
+
+
+/*  
+
+**  SAMPLE INPUT OUTPUT
+
+Enter the size of the array : 10
+
+Enter the array elements : 2
+3
+4
+5
+6
+9
+10
+12
+13
+16
+
+Enter the key value to be searched : 13
+The given key value is found at the index value : 8
+
+
+** Time Complexity of Linear Search:-
 
     1. Best Case complexity : O(1) 
     2. Average Case complexity : O(n)
     3. Worst Case complexity : O(n)
-*/    
+*/
