@@ -1,3 +1,2 @@
-<img src="https://ibb.co/wBScP37" alt="Smiley face" height="20" width="20">
+<img src="https://i.ibb.co/wBScP37/connection.png" height="50" width="50">
 ## Fun With DS AND ALGO
-
