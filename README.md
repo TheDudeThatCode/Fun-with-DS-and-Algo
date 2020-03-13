@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="500" height="500" src="https://i.ibb.co/8xdQrGm/connection-02.png">
+  <img width="200" height="200" src="https://i.ibb.co/ncJS2Nk/connection-02.png">
 </p>
