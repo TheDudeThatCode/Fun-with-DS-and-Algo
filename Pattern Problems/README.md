@@ -10,3 +10,5 @@
 * * * * * *<br>
 * * * * * * *<br>
 </p>
+
+#### 2. Inverted Half Pyramid Star Pattern
