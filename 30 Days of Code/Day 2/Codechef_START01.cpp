@@ -12,23 +12,22 @@ int main()
 
 /*
 
-Problem Statement
+Problem Statement :-
 Write a program that accepts a number, n, and outputs the same.
 
-Input
+Input :-
 The only line contains a single integer.
 
-Output
+Output :-
 Output the answer in a single line.
 
-Constraints
+Constraints :-
 0 ≤ n ≤ 105
 
-Sample Input
+Sample Input :-
 123
 
-Sample Output
+Sample Output :-
 123
-
 
 */
