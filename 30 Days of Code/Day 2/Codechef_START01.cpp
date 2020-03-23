@@ -23,8 +23,10 @@ Output the answer in a single line.
 
 Constraints
 0 ≤ n ≤ 105
+
 Sample Input
 123
+
 Sample Output
 123
 
