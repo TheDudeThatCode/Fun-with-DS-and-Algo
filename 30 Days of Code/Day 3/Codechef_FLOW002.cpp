@@ -23,12 +23,13 @@ int main()
 
 /*
 
+Problem Statement :-
 Write a program to find the remainder when two given numbers are divided.
 
-Input
+Input :-
 The first line contains an integer T, total number of test cases. Then follow T lines, each line contains two Integers A and B.
 
-Output
+Output :-
 Find remainder when A is divided by B.
 
 Constraints
