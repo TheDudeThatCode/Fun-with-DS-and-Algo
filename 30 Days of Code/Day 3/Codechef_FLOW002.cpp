@@ -32,10 +32,11 @@ The first line contains an integer T, total number of test cases. Then follow T 
 Output :-
 Find remainder when A is divided by B.
 
-Constraints
+Constraints :-
 1 ≤ T ≤ 1000
 1 ≤ A,B ≤ 10000
-Example
+
+Example :-
 Input
 3 
 1 2
