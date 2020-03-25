@@ -1,6 +1,6 @@
 <h1 align=center>:beginner: 30 Days of Code Challenge :beginner:</h1>
 
-<h3 align=center>My 30 days of code challenge that might turn into 100 days of code 🤞</h3>
+<h3 align=center><em>My 30 days of code challenge that might turn into 100 days of code 🤞</em></h3>
 
 <br>
 
