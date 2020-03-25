@@ -1,9 +1,9 @@
 <h1 align=center>:beginner: 30 Days of Code Challenge :beginner:</h1>
 
-#### My 30 days of code challenge that might turn into 100 days of code 🤞
+#### 📌 My 30 days of code challenge that might turn into 100 days of code 🤞
 <p>
-*<br>
-* *<br>
+<h6>Date Started :</h6> 23 March, 2020<br>
+Days Completed<br>
 * * *<br>
 * * * *<br>
 * * * * *<br>
