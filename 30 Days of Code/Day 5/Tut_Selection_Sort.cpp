@@ -1,3 +1,5 @@
+/* This program is also available in the sorting section of this repository */
+
 /* Selection Sort Algorithm */
 
 #include <iostream>
