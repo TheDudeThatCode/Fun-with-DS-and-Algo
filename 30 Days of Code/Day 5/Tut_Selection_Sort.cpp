@@ -60,3 +60,38 @@ int main() // Main Section
 
     return 0;
 } // End of program
+
+/*
+**  SAMPLE INPUT OUTPUT
+
+    Enter the size of the array : 10
+
+Enter the array elements : 22
+45
+33
+12
+1
+4
+9
+2
+6
+8
+
+The array before applying Selection Sort Algorithm :  22 45 33 12 1 4 6 2 9 8
+
+The array after applying Selection Sort Algorithm :  1 2 4 6 8 9 12 22 33 45
+
+
+
+
+** Time Complexity of Selection Sort:-
+
+    1. Best Case complexity : O(n) 
+    2. Average Case complexity : O(n^2)
+    3. Worst Case complexity : O(n^2)
+
+
+
+** Selection Sort is neither an adaptive nor a stable algorithm.
+
+*/
