@@ -1,3 +1,6 @@
+/* This program is also available in the day 5 folder of 30 days of code section of this repository */
+
+
 /* Selection Sort Algorithm */
 
 #include <iostream>
