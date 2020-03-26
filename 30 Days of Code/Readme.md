@@ -6,7 +6,7 @@
 
 #### 📍 Date Started: 23 March, 2020
 
-#### 📍 Days Completed: 03
+#### 📍 Days Completed: 04
  
 |     Day      |                  Date                 |        Status         | 
 | :----------: | :-----------------------------------: | :-------------------: |
