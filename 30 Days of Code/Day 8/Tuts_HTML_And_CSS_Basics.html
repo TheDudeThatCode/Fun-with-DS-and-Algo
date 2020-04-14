@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menus practice</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .navbar {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            background: #4c6ca0;
+            border-radius: 5px;
+            overflow: auto;
+
+        }
+
+        .navbar li {
+            float: left;
+        }
+
+        .navbar li a {
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 15px 20px;
+        }
+
+        .navbar li a:hover {
+            background-color: #446190;
+            color: #f4f4f4;
+        }
+
+        .side-menu {
+            list-style: none;
+            border: 1px #dddddd solid;
+            border-radius: 10px;
+            width: 300px;
+            padding: 20px;
+        }
+
+        .side-menu li {
+            font-size: 18px;
+            line-height: 2.4em;
+            border-bottom: dotted 1px #dddddd;
+        }
+
+
+        .side-menu li:last-child {
+            border: none;
+        }
+
+        .side-menu li a {
+            color: #333333;
+            text-decoration: none;
+        }
+
+
+        .side-menu li a:hover {
+            color: coral;
+        }
+
+
+
+        .bar {
+            list-style: none;
+            background: #4c6ca0;
+            padding: 20px;
+
+
+        }
+
+        .bar li {
+
+            display: inline;
+        }
+
+        .bar li a {
+            text-decoration: none;
+            padding-right: 20px;
+            color: white;
+        }
+
+        .box {
+            width: 32.8%;
+            display: inline-block;
+            box-sizing: border-box;
+            background: #f4f4f4;
+            padding: 20px;
+            margin-bottom: 15px;
+        }
+
+        .img {
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <ul class="navbar">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+    <br>
+    <br>
+    <ul class="side-menu">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+    <br>
+    <ul class="bar">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+    <br>
+    <br>
+    <div class="box">
+        <h3>Home</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam harum voluptate saepe alias explicabo,
+            accusantium nemo suscipit corporis expedita sint.</p>
+    </div>
+    <div class="box">
+        <h3>About</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam harum voluptate saepe alias explicabo,
+            accusantium nemo suscipit corporis expedita sint.</p>
+    </div>
+    <div class="box">
+        <h3>Contact</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam harum voluptate saepe alias explicabo,
+            accusantium nemo suscipit corporis expedita sint.</p>
+    </div>
+    <br>
+    <img class="img" src="img/leaf.png" alt="Logo">
+    <img class="img" src="img/leaf.png" alt="Logo">
+</body>
+
+</html>
